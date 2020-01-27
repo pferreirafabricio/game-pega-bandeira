@@ -2,8 +2,8 @@
 
 ## :eyes: Como ficou?
 
-<!-- <img src="/projectImages/tela-jogo.png" width="auto" height="500px"></img>
-<img src="/projectImages/tela-gameover.png" width="auto" height="500px"></img> -->
+<img src="/projectImages/tela-entrada.png" width="auto" height="1000px"></img>
+<img src="/projectImages/tela-jogo.png" width="auto" height="1000px"></img>
 
 ## :man_technologist: Tecnologias usadas
 
