@@ -1,0 +1,62 @@
+@font-face
+{
+	font-family:Texto;
+	src:url(../fontes/dirtyheadline.ttf);
+}
+
+body 
+{
+	background-image:url(../imgs/fundo.jpg);
+}
+
+h1 
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:#666;
+	color:#FFF;
+	text-align:center;
+	font-family:Texto;
+	font-size: 50px;
+}
+
+#fundo 
+{
+	width:450px;
+	height:450px;
+	border-width:5px;
+	border-style:solid;
+	border-color:#FFF;
+	margin:auto;
+	position: relative;
+	overflow: hidden;;
+	z-index:1;
+}
+
+#inicio
+{
+	width:350px;
+	height:350px;
+	background-color:#FFF;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	padding:5px;
+	z-index:1;
+}
+
+.titulo 
+{
+	text-align:center;
+	font-family:Texto;
+	font-size: 50px;
+	color:#F00;
+}
+
+.paragrafo 
+{
+	text-align:center;
+	font-family:Texto;
+	font-size: 30px;
+	color:#000;
+}
