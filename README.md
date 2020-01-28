@@ -19,6 +19,8 @@ O projeto foi desenvolvido durante o curso [Desenvolvimento de Jogos com HTML5](
 O mesmo possui 2 versões:
  - [Web](./pegaBandeira/)
  - [Android](./APK/)
+ 
+  <br/>-> [CERTIFICADO](https://www.udemy.com/certificate/UC-RCVQ18LV/)
 
 ## :memo: Licença
 
