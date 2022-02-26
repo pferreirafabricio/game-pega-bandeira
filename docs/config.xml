@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.bandeira.mobile"
+
+versionCode="1"
+version = "1.0.0">
+
+<name>Pegue a Bandeira</name>
+<content src="index.html" />
+
+<description>
+	Tente recolher mais bandeiras que o seu inimigo!!
+</description>
+<author href="http://www.minhapagina.com.br"
+	email="contato@meuemail.com.br">
+</author>
+<preference name="fullscreen" value="true" />
+<preference name="orientation" value="portrait" />
+<icon src="imgs/icon.png" />
+</widget>
