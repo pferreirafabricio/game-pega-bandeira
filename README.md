@@ -6,6 +6,8 @@
 <hr/>
 <img src="/projectImages/tela-jogo.png" width="auto" height="500px"></img>
 
+> Jogue em: https://pferreirafabricio.github.io/game-pegaBandeira/
+
 ## :man_technologist: Tecnologias usadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
